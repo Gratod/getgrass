@@ -19,7 +19,7 @@ async def connect_to_wss(socks5_proxy, user_id):
         try:
             await asyncio.sleep(random.randint(1, 10) / 10)
             custom_headers = {
-                "User-Agent": random_user_agent,
+                "User-Agent": 2olUVCcvlly8jm ToRPOHxsAS1yl,
             }
             ssl_context = ssl.create_default_context()
             ssl_context.check_hostname = False
